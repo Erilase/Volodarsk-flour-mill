@@ -1174,6 +1174,11 @@ header .bottom__link {
     z-index: 705;
 }
 
+.footer__mainfoto {
+    height: 100%;
+    width: 100%;
+}
+
 .footer__logo {
     margin-bottom: 50px;
 }
